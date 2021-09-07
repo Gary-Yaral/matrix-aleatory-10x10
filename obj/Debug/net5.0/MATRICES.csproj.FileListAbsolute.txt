@@ -1,0 +1,16 @@
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\bin\Debug\net5.0\MATRICES.exe
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\bin\Debug\net5.0\MATRICES.deps.json
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\bin\Debug\net5.0\MATRICES.runtimeconfig.json
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\bin\Debug\net5.0\MATRICES.runtimeconfig.dev.json
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\bin\Debug\net5.0\MATRICES.dll
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\bin\Debug\net5.0\ref\MATRICES.dll
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\bin\Debug\net5.0\MATRICES.pdb
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\obj\Debug\net5.0\MATRICES.csproj.AssemblyReference.cache
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\obj\Debug\net5.0\MATRICES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\obj\Debug\net5.0\MATRICES.AssemblyInfoInputs.cache
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\obj\Debug\net5.0\MATRICES.AssemblyInfo.cs
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\obj\Debug\net5.0\MATRICES.csproj.CoreCompileInputs.cache
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\obj\Debug\net5.0\MATRICES.dll
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\obj\Debug\net5.0\ref\MATRICES.dll
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\obj\Debug\net5.0\MATRICES.pdb
+C:\Users\beler\OneDrive\Escritorio\MYAPP\MATRICES\obj\Debug\net5.0\MATRICES.genruntimeconfig.cache
